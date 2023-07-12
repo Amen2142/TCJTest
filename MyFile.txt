@@ -1,0 +1,1 @@
+This is my text file I want to clone to my git repository please god have mercy 
